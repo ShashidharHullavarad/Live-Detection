@@ -42,5 +42,5 @@ The **Live Detection Web App** is a machine learning project that uses a pre-tra
 ```bash
 git clone https://github.com/<your-username>/Live-Detection.git
 
-2. Navigate into the project directory:
+  2. Navigate into the project directory:
 cd Live-Detection
