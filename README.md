@@ -79,6 +79,10 @@ Live-Detection/
 
 ---
 
+⭐ Google Drive Link For Pre-Trained Model - https://drive.google.com/drive/folders/1u1aHIJMAUUfU83BMaBMsOUzADKuNCusu?usp=drive_link 
+
+---
+
 ## 📋 requirements.txt
    Flask==2.1.1
    opencv-python==4.5.5.64
