@@ -80,22 +80,10 @@ Live-Detection/
 ---
 
 📋 requirements.txt
-Flask==2.1.1
-opencv-python==4.5.5.64
-tensorflow==2.8.0
-numpy==1.22.4
-
----
-
-🤝 Contributing
-We welcome contributions to the Live Detection Web App! To contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Commit your changes.
-5. Push your changes to your fork.
-6. Open a pull request to the main repository.
+   Flask==2.1.1
+   opencv-python==4.5.5.64
+   tensorflow==2.8.0
+   numpy==1.22.4
 
 ---
 
@@ -106,8 +94,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 📝 Acknowledgments
 
-Thanks to TensorFlow for the powerful deep learning framework.
-Thanks to Flask for making web development easy.
-Thanks to OpenCV for enabling real-time image processing.
+```Thanks to TensorFlow for the powerful deep learning framework.``
+```Thanks to Flask for making web development easy.``
+```Thanks to OpenCV for enabling real-time image processing.``
 
 ---
